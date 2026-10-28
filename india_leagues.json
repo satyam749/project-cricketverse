@@ -1,0 +1,32 @@
+{
+  "category": "India domestic leagues and competitions",
+  "franchise_leagues": [
+    {"name":"Indian Premier League (IPL)","format":"T20","country":"India"},
+    {"name":"Women's Premier League (WPL)","format":"T20","country":"India"},
+    {"name":"Maharaja Trophy KSCA T20","format":"T20","country":"India","region":"Karnataka"},
+    {"name":"Tamil Nadu Premier League (TNPL)","format":"T20","country":"India","region":"Tamil Nadu"},
+    {"name":"Karnataka Premier League / state T20 competitions","format":"T20","country":"India","region":"state competitions; naming/status may change"},
+    {"name":"Uttar Pradesh T20 League","format":"T20","country":"India","region":"Uttar Pradesh"},
+    {"name":"Bengal Pro T20 League","format":"T20","country":"India","region":"West Bengal"},
+    {"name":"Delhi Premier League (DPL)","format":"T20","country":"India","region":"Delhi"},
+    {"name":"Rajasthan Premier League","format":"T20","country":"India","region":"Rajasthan"},
+    {"name":"Bihar Cricket League / state league slot","format":"T20","country":"India","region":"Bihar","status_note":"Use as configurable slot; verify current competition status before publishing"},
+    {"name":"Other State Premier Leagues","format":"T20","country":"India","region":"all states","status_note":"Expandable directory; exact league names and active status vary by season"}
+  ],
+  "bcci_domestic_competitions": [
+    {"name":"Ranji Trophy","format":"First-Class"},
+    {"name":"Duleep Trophy","format":"First-Class"},
+    {"name":"Irani Cup","format":"First-Class"},
+    {"name":"Vijay Hazare Trophy","format":"List A / 50-over"},
+    {"name":"Syed Mushtaq Ali Trophy","format":"T20"},
+    {"name":"Deodhar Trophy","format":"List A; schedule/status edition-dependent"},
+    {"name":"Senior Women's One Day Trophy","format":"One Day"},
+    {"name":"Senior Women's T20 Trophy","format":"T20"},
+    {"name":"Women's Senior Inter-Zonal competitions","format":"format depends on event"},
+    {"name":"Vinoo Mankad Trophy","format":"Youth One Day"},
+    {"name":"Cooch Behar Trophy","format":"Youth multi-day"},
+    {"name":"Col. C. K. Nayudu Trophy","format":"Youth multi-day"},
+    {"name":"BCCI age-group and domestic tournaments","format":"competition-dependent"}
+  ],
+  "note":"Indian state/franchise leagues can start, stop, or change names. Keep season, teams, and active status in a separate updateable database rather than hard-coding a claim that every league is currently active."
+}

@@ -1,0 +1,30 @@
+{
+  "category": "International match formats",
+  "formats": [
+    {"id":"test","name":"Test Match","type":"international","overs_per_innings":null,"duration":"up to 5 days"},
+    {"id":"odi","name":"One Day International (ODI)","type":"international","overs_per_innings":50},
+    {"id":"t20i","name":"Twenty20 International (T20I)","type":"international","overs_per_innings":20},
+    {"id":"t10_custom","name":"T10 (custom/competition-dependent)","type":"short-format","overs_per_innings":10},
+    {"id":"the_hundred","name":"The Hundred ruleset","type":"short-format","balls_per_innings":100},
+    {"id":"first_class","name":"First-Class Cricket","type":"domestic_multi_day","duration":"multi-day"},
+    {"id":"list_a","name":"List A Cricket","type":"domestic_limited_overs","overs_per_innings":"competition-dependent"},
+    {"id":"t20_domestic","name":"Domestic T20","type":"domestic_limited_overs","overs_per_innings":20},
+    {"id":"quick_match","name":"Quick Match (game mode)","type":"game_mode","overs_per_innings":"custom"}
+  ],
+  "international_competitions": [
+    {"name":"ICC Men's Cricket World Cup","format":"ODI"},
+    {"name":"ICC Men's T20 World Cup","format":"T20I"},
+    {"name":"ICC World Test Championship","format":"Test"},
+    {"name":"ICC Champions Trophy","format":"ODI"},
+    {"name":"ICC Women's Cricket World Cup","format":"ODI"},
+    {"name":"ICC Women's T20 World Cup","format":"T20I"},
+    {"name":"ICC U19 Cricket World Cup","format":"ODI / tournament rules"},
+    {"name":"ICC U19 Women's T20 World Cup","format":"T20"},
+    {"name":"Asia Cup","format":"ODI or T20I depending on edition"},
+    {"name":"Asia Cup Women","format":"ODI or T20 depending on edition"},
+    {"name":"ACC Emerging Teams Asia Cup","format":"edition-dependent"},
+    {"name":"Bilateral / Tri-series","format":"Test, ODI or T20I depending on series"},
+    {"name":"Olympic Cricket (when scheduled) ","format":"T20"}
+  ],
+  "note":"Competition formats and event calendars can change by edition. This is a configurable starter catalog, not a live official fixture feed. Women's, men's, youth, bilateral and regional competitions are represented as separate configurable entries where relevant."
+}

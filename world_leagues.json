@@ -1,0 +1,32 @@
+{
+  "category": "Major international franchise leagues and regional competitions",
+  "leagues": [
+    {"name":"Big Bash League (BBL)","country":"Australia","format":"T20"},
+    {"name":"Women's Big Bash League (WBBL)","country":"Australia","format":"T20"},
+    {"name":"The Hundred","country":"England and Wales","format":"100 balls"},
+    {"name":"Vitality Blast","country":"England and Wales","format":"T20"},
+    {"name":"County Championship","country":"England and Wales","format":"First-Class"},
+    {"name":"Major League Cricket (MLC)","country":"United States","format":"T20"},
+    {"name":"Caribbean Premier League (CPL)","country":"Caribbean","format":"T20"},
+    {"name":"Women's Caribbean Premier League (WCPL)","country":"Caribbean","format":"T20"},
+    {"name":"Pakistan Super League (PSL)","country":"Pakistan","format":"T20"},
+    {"name":"Bangladesh Premier League (BPL)","country":"Bangladesh","format":"T20"},
+    {"name":"Lanka Premier League (LPL)","country":"Sri Lanka","format":"T20"},
+    {"name":"Nepal Premier League (NPL)","country":"Nepal","format":"T20"},
+    {"name":"Afghanistan Premier League / Afghanistan franchise slot","country":"Afghanistan","format":"T20","status_note":"Verify active status and official name by season"},
+    {"name":"ILT20","country":"United Arab Emirates","format":"T20"},
+    {"name":"Abu Dhabi T10","country":"United Arab Emirates","format":"T10"},
+    {"name":"SA20","country":"South Africa","format":"T20"},
+    {"name":"Women's SA20 / women's franchise slot","country":"South Africa","format":"T20","status_note":"Competition status and official name should be verified by season"},
+    {"name":"Global Super League (GSL)","country":"International franchise competition","format":"T20"},
+    {"name":"Super Smash","country":"New Zealand","format":"T20"},
+    {"name":"Women's Super Smash","country":"New Zealand","format":"T20"},
+    {"name":"The Ford Trophy","country":"New Zealand","format":"List A"},
+    {"name":"Sheffield Shield","country":"Australia","format":"First-Class"},
+    {"name":"Marsh One-Day Cup","country":"Australia","format":"List A"},
+    {"name":"CSA 4-Day Series","country":"South Africa","format":"First-Class"},
+    {"name":"CSA One-Day Cup","country":"South Africa","format":"List A"},
+    {"name":"National T20 / domestic leagues directory","country":"Worldwide","format":"T20","status_note":"Expandable slot for country-by-country domestic competitions"}
+  ],
+  "note":"This catalog lists major leagues and representative domestic competitions, not literally every regional/amateur league in the world. League names, franchises, seasons and status should be refreshed from official sources before release."
+}
